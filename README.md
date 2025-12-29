@@ -1,6 +1,7 @@
-# Crypto Boy NFT Marketplace
-<i>NFT marketplace DApp where users mint ERC721 implemented Crypto Boy NFTs.</i>
-#
+# NFT Marketplace
+
+Mint, collect, and trade ERC-721 NFTs.
+
 <img align="right" width="350" src="./image.png"></img>
 ### Features
 - Mint custom ERC721 implemented Crypto Boy Tokens.
